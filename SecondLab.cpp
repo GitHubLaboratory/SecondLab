@@ -2,7 +2,7 @@
 
 using namespace std;
 
-main()
+int main()
 {
 	int sum, date1, date2;
 	cout << "Vvedite summu vklada (minimal'naya summa 10 tys): " << endl;
